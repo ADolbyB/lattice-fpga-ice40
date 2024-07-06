@@ -1,6 +1,13 @@
 # Lattice FPGA: iCE40 HX1K
 
-Tutorials based on the FPGA (Field Programmable Gate Array) YouTube series from DigiKey by Shawn Hymel.
+This is a repo of tutorials based on the FPGA (Field Programmable Gate Array) YouTube series from DigiKey by Shawn Hymel. I will be using open-source [APIO](https://github.com/FPGAwars/apio) ecosystem for flashing the FPGA using Verilog HDL.
+
+Why use an FPGA over a Microcontroller?
+- FPGAs provide custom, configurable digital logic circuits.
+- Add custom peripherals (USB, etc.)
+- Modify open-source CPU functions for custom calculations.
+- SPEED for specific computations (Bitcoin Mining, etc.)
+- An excellent prototyping platform as a path for ASIC production/manufacturing.
 
 <div align="center">
 
@@ -16,6 +23,11 @@ Tutorials based on the FPGA (Field Programmable Gate Array) YouTube series from 
 - [APIO Documentation](https://apiodoc.readthedocs.io/en/stable/) for FPGA Programming.
 - [APIO: GitHub Repo](https://github.com/FPGAwars/apio) for the open source tool.
 - [DigiKey: Buy a Lattice iCEstick](https://www.digikey.com/en/products/detail/lattice-semiconductor-corporation/ICE40HX1K-STICK-EVN/4289604).
+
+## Lattice Archive:
+- [iCEstick Evaluation Kit Downloads](https://www.latticesemi.com/icestick)
+- [Software & Documentation](https://www.latticesemi.com/en/Support/SoftwareArchive)
+- [Tools Device Support & SW Licensing](https://www.latticesemi.com/Support/Licensing)
 
 ## Status:
 ![GitHub repo size](https://img.shields.io/github/repo-size/ADolbyB/lattice-fpga-ice40?style=for-the-badge&logo=github)

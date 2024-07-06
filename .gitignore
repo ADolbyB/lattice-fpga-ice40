@@ -1,0 +1,8 @@
+# Verilog Generated:
+*.bin
+*.asc
+*.dblite
+*.json
+
+# Misc Binaries
+info
